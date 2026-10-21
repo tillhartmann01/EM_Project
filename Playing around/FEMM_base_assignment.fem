@@ -1,0 +1,70 @@
+[Format]      =  4.0
+[Frequency]   =  20000
+[Precision]   =  1e-08
+[MinAngle]    =  30
+[DoSmartMesh] =  1
+[Depth]       =  1
+[LengthUnits] =  millimeters
+[ProblemType] =  planar
+[Coordinates] =  cartesian
+[ACSolver]    =  0
+[PrevType]    =  0
+[PrevSoln]    =  ""
+[Comment]     =  ""
+[PointProps]   = 0
+[BdryProps]   = 0
+[BlockProps]  = 0
+[CircuitProps]  = 0
+[NumPoints] = 24
+0	0	0	0
+65	0	0	0
+0	32	0	0
+65	32	0	0
+10	32	0	0
+55	32	0	0
+42.5	32	0	0
+22.5	32	0	0
+10	12	0	0
+22.5	12	0	0
+42.5	12	0	0
+55	12	0	0
+65	67	0	0
+0	67	0	0
+65	35	0	0
+0	35	0	0
+55	35	0	0
+9.9999999999999964	35	0	0
+22.5	35	0	0
+42.5	35	0	0
+55	55	0	0
+42.5	55	0	0
+22.5	55	0	0
+10	55	0	0
+[NumSegments] = 24
+2	4	-1	0	0	0
+4	8	-1	0	0	0
+8	9	-1	0	0	0
+9	7	-1	0	0	0
+3	1	-1	0	0	0
+1	0	-1	0	0	0
+0	2	-1	0	0	0
+3	5	-1	0	0	0
+6	7	-1	0	0	0
+6	10	-1	0	0	0
+10	11	-1	0	0	0
+11	5	-1	0	0	0
+13	12	-1	0	0	0
+12	14	-1	0	0	0
+14	16	-1	0	0	0
+16	20	-1	0	0	0
+20	21	-1	0	0	0
+21	19	-1	0	0	0
+19	18	-1	0	0	0
+18	22	-1	0	0	0
+22	23	-1	0	0	0
+23	17	-1	0	0	0
+17	15	-1	0	0	0
+15	13	-1	0	0	0
+[NumArcSegments] = 0
+[NumHoles] = 0
+[NumBlockLabels] = 0

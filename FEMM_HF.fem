@@ -1,5 +1,5 @@
 [Format]      =  4.0
-[Frequency]   =  0
+[Frequency]   =  20000
 [Precision]   =  1e-08
 [MinAngle]    =  30
 [DoSmartMesh] =  1
@@ -184,14 +184,14 @@
 [CircuitProps]  = 2
   <BeginCircuit>
     <CircuitName> = "Primary"
-    <TotalAmps_re> = 18.66
+    <TotalAmps_re> = 26.399999999999999
     <TotalAmps_im> = 0
     <CircuitType> = 1
   <EndCircuit>
   <BeginCircuit>
     <CircuitName> = "Secondary"
-    <TotalAmps_re> = 279.94496199999998
-    <TotalAmps_im> = 12.287345
+    <TotalAmps_re> = 394
+    <TotalAmps_im> = 17.359999999999999
     <CircuitType> = 1
   <EndCircuit>
 [NumPoints] = 22
